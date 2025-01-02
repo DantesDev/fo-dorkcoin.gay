@@ -22,10 +22,10 @@
       let Navbar = () => {
         let [A, e] = (0, o.useState)(!1),
           t = [
-            { icon: n.S5, link: "https://twitter.com/srpeterseth" },
+            { icon: n.S5, link: "https://x.com/NerdcoinCash" },
             { icon: n.Y8, link: "https://www.dextools.io/app/en/ether/pair-explorer/0xBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB" },
             { icon: n.BA, link: "https://etherscan.io/token/0xAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" },
-            { icon: n.ht, link: "https://t.me/DORKcoin" },
+            { icon: n.ht, link: "https://t.me/NerdcoinCash" },
           ];
         return (0, i.jsxs)(i.Fragment, {
           children: [

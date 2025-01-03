@@ -39,7 +39,7 @@
                 ],
               }),
             }),
-            A && (0, i.jsxs)("div", { className: "lg:hidden fixed top-0  z-[999] bg-black w-full h-screen flex flex-col justify-around ", children: [(0, i.jsx)("div", { className: "flex flex-col items-center justify-center gap-10 flex-auto", children: t.map((A, e) => (0, i.jsxs)(l(), { href: "".concat(A.link), children: [" ", (0, i.jsx)(s(), { src: A.icon, width: 33, height: 33, alt: "logo of website" }), " "] }, e)) }), (0, i.jsx)("p", { className: "text-center py-8", children: "\xa9 2023 - $NERD All rights reserved" })] }),
+            A && (0, i.jsxs)("div", { className: "lg:hidden fixed top-0  z-[999] bg-black w-full h-screen flex flex-col justify-around ", children: [(0, i.jsx)("div", { className: "flex flex-col items-center justify-center gap-10 flex-auto", children: t.map((A, e) => (0, i.jsxs)(l(), { href: "".concat(A.link), children: [" ", (0, i.jsx)(s(), { src: A.icon, width: 33, height: 33, alt: "logo of website" }), " "] }, e)) }), (0, i.jsx)("p", { className: "text-center py-8", children: "\xa9 2025 - $NERD All rights reserved" })] }),
           ],
         });
       };

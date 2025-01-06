@@ -233,7 +233,7 @@
       function SectionOne() {
         let copyText = () => {
           navigator.clipboard
-            .writeText("0xAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+            .writeText("0x1b055f47D892500a49FDF44C040A446cC163B092")
             .then(() => {
               (0, a.default)("Contract Address Copied", {
                 icon: "✅",
@@ -312,7 +312,7 @@
                           (0, s.jsxs)("p", {
                             className: "font-medium uppercase",
                             children: [
-                              "0xAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                              "0x1b055f47D892500a49FDF44C040A446cC163B092",
                             ],
                           }),
                           (0, s.jsx)("button", {

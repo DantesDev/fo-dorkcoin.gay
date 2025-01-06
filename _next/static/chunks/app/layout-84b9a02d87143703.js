@@ -23,8 +23,8 @@
         let [A, e] = (0, o.useState)(!1),
           t = [
             { icon: n.S5, link: "https://x.com/NerdcoinCash" },
-            { icon: n.Y8, link: "https://www.dextools.io/app/en/ether/pair-explorer/0xBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB" },
-            { icon: n.BA, link: "https://etherscan.io/token/0xAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" },
+            { icon: n.Y8, link: "https://www.dextools.io/app/en/ether/pair-explorer/0xda5a396a5bb7f3d46fba342ef0421385684a25ff" },
+            { icon: n.BA, link: "https://etherscan.io/token/0x1b055f47D892500a49FDF44C040A446cC163B092" },
             { icon: n.ht, link: "https://t.me/NerdcoinCash" },
           ];
         return (0, i.jsxs)(i.Fragment, {

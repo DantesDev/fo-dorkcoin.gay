@@ -392,24 +392,6 @@
                           ],
                         }),
                       }),
-                      (0, s.jsxs)("p", {
-                        className: "font-medium items-center gap-3 mt-4",
-                        children: [
-                          (0, s.jsx)("span", {
-                            className:
-                              "lg:text-4xl text-xl font-uniformExtraCondensed text-base-orange font-medium",
-                            children: "0% BUY/SELL TAX",
-                          }),
-                          (0, s.jsxs)("span", {
-                            className:
-                              "lg:text-2xl text-sm font-uniformExtraCondensed ",
-                            children: [
-                              " ",
-                              "- To be used for Marketing, Free & Exclusive Raffles, Burns, Airdrops.",
-                            ],
-                          }),
-                        ],
-                      }),
                       (0, s.jsx)("p", {
                         className: "font-medium items-center gap-3 mt-4",
                         children: (0, s.jsx)("span", {
